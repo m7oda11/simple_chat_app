@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "435276204404",
+    "project_id": "educatly-task",
+    "storage_bucket": "educatly-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435276204404:android:825ffc8de4c025b0cc4421",
+        "android_client_info": {
+          "package_name": "com.example.educatly_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435276204404-r30s0l47qu0pa3m1odevfaqcs83340lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZyv8lr8ioNxT6ALDuCpBqRfefkc7DBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435276204404-r30s0l47qu0pa3m1odevfaqcs83340lo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435276204404-rlgsls447eamhcgau02gb9cc4bfthft1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.educatlyTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
